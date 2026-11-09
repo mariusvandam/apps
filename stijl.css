@@ -15,3 +15,8 @@ ul { padding-left: 20px; }
 a { color: var(--groen); }
 .taal { font-size: 12px; font-weight: 800; letter-spacing: .14em; text-transform: uppercase; color: var(--accent); margin-bottom: 4px; }
 footer { font-size: 14px; color: var(--zacht); text-align: center; margin-top: 32px; }
+.app { display: flex; gap: 20px; align-items: flex-start; }
+.app img { width: 88px; height: 88px; border-radius: 20px; flex: none; box-shadow: 0 8px 24px rgba(0, 0, 0, .35); }
+.app h2 { margin-top: 4px; }
+.app .links { margin: 0; }
+@media (max-width: 480px) { .app { flex-direction: column; } }
