@@ -1,6 +1,6 @@
-# Dusk Snake
+# Ladon
 
-Privacy policy and support page for the iPhone game Dusk Snake (Schemerslang in Dutch), served with GitHub Pages.
+Privacy policy and support page for the iPhone game Ladon, served with GitHub Pages.
 
-- https://mariusvandam.github.io/dusk-snake/privacy.html
-- https://mariusvandam.github.io/dusk-snake/support.html
+- https://mariusvandam.github.io/ladon/privacy.html
+- https://mariusvandam.github.io/ladon/support.html
